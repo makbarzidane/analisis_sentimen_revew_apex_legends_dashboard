@@ -563,7 +563,6 @@ with tab2:
 
     st.info(
         "Bagian evaluasi ini membaca hasil evaluasi yang tersimpan di `apex_sentiment_model_final.pkl`. "
-        "Nilai evaluasi tidak berubah mengikuti filter sidebar karena evaluasi model harus memakai data uji final dari Colab."
     )
 
     if accuracy is not None:
