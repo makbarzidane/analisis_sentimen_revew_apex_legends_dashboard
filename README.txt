@@ -1,4 +1,4 @@
-# Dashboard Apex WordCloud Fix v2
+# Dashboard Apex
 
 
 ## File yang perlu ada dalam satu folder
